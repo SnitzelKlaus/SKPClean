@@ -114,5 +114,6 @@
   <ItemGroup>
     <Resource Include="Images\SKPClean.gif" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -26,7 +26,8 @@
         </Grid.RowDefinitions>
 
         <Image Grid.Row="1" Grid.Column="1" gif:ImageBehavior.AnimatedSource="\Images\SKPClean.gif"/>
-
+        <Image Grid.Row="2" Grid.Column="1" gif:ImageBehavior.AnimatedSource="\Images\Cleaning.gif"/>
+        
         <Button Grid.Row="3" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center" Width="100" Height="25">Hello</Button>
 
     </Grid>
